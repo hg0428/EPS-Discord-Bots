@@ -10,6 +10,8 @@ discord = "^1.0.1"
 replit = "^1.4.3"
 dill = "^0.3.2"
 nest-asyncio = "^1.4.0"
+flask = "^1.1.2"
+discord-components = "^2.1.1"
 
 [tool.poetry.dev-dependencies]
 
